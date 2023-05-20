@@ -38,4 +38,3 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 ## Contact:
 
 [![Email](https://img.shields.io/badge/ingcapadev@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:ingcapadev@gmail.com)
-[![Cellphone](https://img.shields.io/badge/+526692108089-phone-82BA51?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=101010)](#)
