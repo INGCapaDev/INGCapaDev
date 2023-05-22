@@ -31,7 +31,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 ... and additional ones.
 
 ## Links:
-[![Website](https://img.shields.io/badge/Website-@fta__capa-1DA1F2?style=for-the-badge&logo=web&logoColor=white&labelColor=101010)](ingcapadev.netlify.app)
+[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.netlify.app)
 [![Twitter](https://img.shields.io/badge/Twitter-@fta__capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fta_capa)
 [![GitLab](https://img.shields.io/badge/GitLab-@AlvaroCapaceta-DF8E12?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)](https://gitlab.com/AlvaroCapaceta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ingcapadev/)
