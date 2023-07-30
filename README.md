@@ -27,7 +27,10 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 </br>
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-8C659C?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=101010)](#)
 [![SASS](https://img.shields.io/badge/SASS-DB6ED4?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](#)
+[![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)](#)
 </br>
+[![React](https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
+
 ... and additional ones.
 
 ## Links:
