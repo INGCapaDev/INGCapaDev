@@ -1,6 +1,6 @@
 # Welcome, I'm Alvaro Capaceta 👋
 ### Web Developer
-
+![INGCapaDev github stats](https://github-readme-stats.vercel.app/api?username=ingcapadev&show_icons=true&rank_icon=github&theme=dark)
 ## About Me
 I really enjoy ⭐ everything related to technology 🤖, programming 👨‍💻, and I'm passionate about web development.
 
