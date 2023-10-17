@@ -11,6 +11,10 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 🫂 I enjoy working in teams and collaborating with other people.
 </br>
 
+## My latest posts
+<!-- POSTS:START -->
+<!-- POSTS:END -->
+
 ## Technologies:
 [![HTML](https://img.shields.io/badge/HTML-999999?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
 [![CSS](https://img.shields.io/badge/CSS-FA7343?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)](#)
