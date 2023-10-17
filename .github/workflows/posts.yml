@@ -16,4 +16,6 @@ jobs:
       - name: Pull in my personal blog
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
+          comment_tag_name: "POSTS"
+          commit_message: "Updated readme with the latest posts data"
           feed_list: "https://blog.ingcapadev.com/"
