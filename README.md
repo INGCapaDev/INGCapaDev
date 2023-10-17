@@ -13,6 +13,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 
 ## My latest posts
 <!-- POSTS:START -->
+- [Start creating content](http://localhost:4322/blog/start-creating-content/)
 <!-- POSTS:END -->
 
 ## Technologies:
