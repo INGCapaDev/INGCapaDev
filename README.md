@@ -11,7 +11,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 🫂 I enjoy working in teams and collaborating with other people.
 </br>
 
-## My latest posts
+## My Latest Blog Post
 <!-- POSTS:START --><br/><li><a href='https://blog.ingcapadev.com/blog/start-creating-content/'>📝 Start creating content</a><p>In my first post, I encourage you to start creating content right now and discover how it can benefit you and become a valuable tool in the future.</p><br/><li><a href='https://blog.ingcapadev.com/blog/start-creating-content/'>📝 Start creating content</a><p>In my first post, I encourage you to start creating content right now and discover how it can benefit you and become a valuable tool in the future.</p><!-- POSTS:END -->
 
 ## Technologies:
