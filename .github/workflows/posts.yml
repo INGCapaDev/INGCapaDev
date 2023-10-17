@@ -19,4 +19,4 @@ jobs:
           comment_tag_name: "POSTS"
           commit_message: "Updated readme with the latest posts data"
           feed_list: "https://blog.ingcapadev.com/rss.xml"
-          template: "<br/><li><a href='$url'>📝 $title</a><p>$description</p>"
+          template: "<br/><li><a href='$url'>📦 $title</a><p>📝 $description</p>"
