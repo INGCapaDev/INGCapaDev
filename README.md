@@ -12,7 +12,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 </br>
 
 ## My latest posts
-<!-- POSTS:START --><li><a href='https://blog.ingcapadev.com/blog/start-creating-content/'>📝 Start creating content</a> <li><br/><p>In my first post, I encourage you to start creating content right now and discover how it can benefit you and become a valuable tool in the future.</p><br/><!-- POSTS:END -->
+<!-- POSTS:START --><li><a href='https://blog.ingcapadev.com/blog/start-creating-content/'>📝 Start creating content</a><li><p>In my first post, I encourage you to start creating content right now and discover how it can benefit you and become a valuable tool in the future.</p><br/><li><a href='https://blog.ingcapadev.com/blog/start-creating-content/'>📝 Start creating content</a><li><p>In my first post, I encourage you to start creating content right now and discover how it can benefit you and become a valuable tool in the future.</p><br/><!-- POSTS:END -->
 
 ## Technologies:
 [![HTML](https://img.shields.io/badge/HTML-999999?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)](#)
