@@ -26,6 +26,8 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 [![SASS](https://img.shields.io/badge/SASS-DB6ED4?style=for-the-badge&logo=sass&logoColor=white&labelColor=101010)](#)
 [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=101010)](#)
 [![React](https://img.shields.io/badge/React-0088CC?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=101010)](#)
+[![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)](#)
 
 ... and additional ones.
 
@@ -33,10 +35,11 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 <!-- POSTS:START --><li><a href='https://blog.ingcapadev.com/blog/start-creating-content/'>📦 Start creating content</a><p>📝 In my first post, I encourage you to start creating content right now and discover how it can benefit you and become a valuable tool in the future.</p><br/><!-- POSTS:END -->
 
 ## Links:
-[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.netlify.app)
+[![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)
 [![Twitter](https://img.shields.io/badge/Twitter-@fta__capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fta_capa)
 [![GitLab](https://img.shields.io/badge/GitLab-@AlvaroCapaceta-DF8E12?style=for-the-badge&logo=gitlab&logoColor=white&labelColor=101010)](https://gitlab.com/AlvaroCapaceta)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@AlvaroCapaceta-487FCF?style=for-the-badge&logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/ingcapadev/)
+[![Blog](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.ingcapadev.com)
 
 ## Contact:
 
