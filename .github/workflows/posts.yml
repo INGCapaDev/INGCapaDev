@@ -17,8 +17,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "POSTS"
-          commit_message: "[bot] Update README with the latest blog posts"
-          commit_author: INGCapaDev
-          commit_email: ingcapadev@gmail.com
+          commit_message: "[BOT] Update README with the latest blog posts"
+          committer_username: INGCapaDev
+          committer_email: ingcapadev@gmail.com
           feed_list: "https://blog.ingcapadev.com/rss.xml"
           template: "<li><a href='$url'>📦 $title</a><p>📝 $description</p><br/>"
