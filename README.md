@@ -32,7 +32,7 @@ I really enjoy ⭐ everything related to technology 🤖, programming 👨‍�
 ... and additional ones.
 
 ## My Latest Blog Post
-<!-- POSTS:START --><li><a href='https://blog.ingcapadev.com/blog/start-creating-content/'>📦 Start creating content</a><p>📝 In my first post, I encourage you to start creating content right now and discover how it can benefit you and become a valuable tool in the future.</p><br/><!-- POSTS:END -->
+<!-- POSTS:START --><li><a href='https://blog.ingcapadev.com/blog/how-to-life-an-asymmetryc-life/'>📦 4 Principles for living an Authentic Life</a><p>📝 Discover the four principles for living an authentic life and maximizing your potential, inspired by the talk by Graham Weaver, CEO of Alpine Investors.</p><br/><li><a href='https://blog.ingcapadev.com/blog/start-creating-content/'>📦 Start creating content</a><p>📝 In my first post, I encourage you to start creating content right now and discover how it can benefit you and become a valuable tool in the future.</p><br/><!-- POSTS:END -->
 
 ## Links:
 [![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)
