@@ -21,4 +21,4 @@ jobs:
           committer_username: INGCapaDev
           committer_email: ingcapadev@gmail.com
           feed_list: "https://blog.ingcapadev.com/rss.xml"
-          template: "<li><a href='$url'>📦 $title</a><p>📝 $description</p><br/>"
+          template: "<li><a href='$url'>📦 $title</a><p>📝 $description</p></li>"
