@@ -2,7 +2,7 @@
 
 ### Web Developer
 <a>
-<img height=200 align="center" src="https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=350"/>
+<img height=200 align="center" src="https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=200"/>
 </a>
 <a>
 <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ingcapadev&show_icons=true&rank_icon=github&theme=dark&hide_border=true&include_all_commits=true"/>
