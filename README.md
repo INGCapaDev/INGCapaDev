@@ -3,9 +3,11 @@
 ### Web Developer
 [![GitHub Streak](https://streak-stats.demolab.com?user=INGCapaDev&theme=highcontrast&border_radius=7&hide_border=true&exclude_days=Sun%2CSat&card_width=467)](#)
 [![INGCapaDev github stats](https://github-readme-stats.vercel.app/api?username=ingcapadev&show_icons=true&rank_icon=github&theme=dark&hide_border=true&include_all_commits=true)](#)
+<img src="https://raw.githubusercontent.com/INGCapaDev/INGCapaDev/output/snake.svg" alt="Snake animation" />
 
 #### 🏆 GitHub Trophies
 [![Github Trophies](https://github-profile-trophy.vercel.app/?username=INGCapaDev&theme=monokai&no-frame=true&no-bg=true&margin-w=4)](#)
+
 
 ## About Me
 
